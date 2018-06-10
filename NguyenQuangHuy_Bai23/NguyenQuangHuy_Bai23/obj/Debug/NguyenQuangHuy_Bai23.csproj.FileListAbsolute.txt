@@ -1,0 +1,19 @@
+c:\users\huy\documents\visual studio 2012\Projects\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\bin\Debug\NguyenQuangHuy_Bai23.exe.config
+c:\users\huy\documents\visual studio 2012\Projects\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\bin\Debug\NguyenQuangHuy_Bai23.exe
+c:\users\huy\documents\visual studio 2012\Projects\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\bin\Debug\NguyenQuangHuy_Bai23.pdb
+c:\users\huy\documents\visual studio 2012\Projects\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.csprojResolveAssemblyReference.cache
+c:\users\huy\documents\visual studio 2012\Projects\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.Form1.resources
+c:\users\huy\documents\visual studio 2012\Projects\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.Properties.Resources.resources
+c:\users\huy\documents\visual studio 2012\Projects\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.csproj.GenerateResource.Cache
+c:\users\huy\documents\visual studio 2012\Projects\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.exe
+c:\users\huy\documents\visual studio 2012\Projects\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.pdb
+C:\Users\HUY\Desktop\NguyenQuangHuy_KTPM14\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\bin\Debug\NguyenQuangHuy_Bai23.exe.config
+C:\Users\HUY\Desktop\NguyenQuangHuy_KTPM14\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\bin\Debug\NguyenQuangHuy_Bai23.exe
+C:\Users\HUY\Desktop\NguyenQuangHuy_KTPM14\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\bin\Debug\NguyenQuangHuy_Bai23.pdb
+C:\Users\HUY\Desktop\NguyenQuangHuy_KTPM14\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.csprojAssemblyReference.cache
+C:\Users\HUY\Desktop\NguyenQuangHuy_KTPM14\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.Form1.resources
+C:\Users\HUY\Desktop\NguyenQuangHuy_KTPM14\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.Properties.Resources.resources
+C:\Users\HUY\Desktop\NguyenQuangHuy_KTPM14\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.csproj.GenerateResource.cache
+C:\Users\HUY\Desktop\NguyenQuangHuy_KTPM14\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.csproj.CoreCompileInputs.cache
+C:\Users\HUY\Desktop\NguyenQuangHuy_KTPM14\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.exe
+C:\Users\HUY\Desktop\NguyenQuangHuy_KTPM14\NguyenQuangHuy_Bai23\NguyenQuangHuy_Bai23\obj\Debug\NguyenQuangHuy_Bai23.pdb
